@@ -8,4 +8,4 @@ O projeto teve como mentoria o apoio do Kyle Dev, que é um desenvolvedor bastan
 Quer conferir como ficou ?
 https://king-of-ping-pong.vercel.app/ 🧑‍🚀
 
-<img src"https://raw.githubusercontent.com/luancostar/kingOfPingPong/master/imgfor/game.PNG">
+<img src="https://raw.githubusercontent.com/luancostar/kingOfPingPong/master/imgfor/game.PNG">
